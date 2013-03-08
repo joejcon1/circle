@@ -1,0 +1,365 @@
+TCircle
+v7
+r0
+t310761624.714228
+cCheck dependencies
+cProcessInfoPlistFile /Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Debug/Circle.app/Contents/Info.plist Circle-Info.plist
+cCompileXIB /Users/aboveaveragejoeconway/Documents/XCode/Circle/MainWindow.xib
+cCompileXIB /Users/aboveaveragejoeconway/Documents/XCode/Circle/CircleViewController.xib
+cProcessPCH /var/folders/Gd/Gd2fwFC0Em4MkC4Y8VsB3++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Circle_Prefix-fccinjzjqrgrhcagwlnrzvmgcxrq/Circle_Prefix.pch.gch Circle_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/Gd/Gd2fwFC0Em4MkC4Y8VsB3++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Circle_Prefix-ftxtqotrwxhyvigyrlibkijrqfhe/Circle_Prefix.pch.gch Circle_Prefix.pch normal ppc objective-c com.apple.compilers.gcc.4_2
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004CAA740B00000000000000EE
+t1286239243
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000000000000000000000000000
+t2
+s0
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CAA740400000000000C7160
+t1286239236
+s815456
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C23AA0400000000000013E6
+t1277405700
+s5094
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004C23B7E500000000000000BF
+t1277409253
+s191
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004CAA740500000000000A3C74
+t1286239237
+s670836
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/aboveaveragejoeconway/Documents/XCode/Circle/CircleViewController.xib
+c000000004CD429020000000000004035
+t1288972546
+s16437
+
+N/Users/aboveaveragejoeconway/Documents/XCode/Circle/Circle_Prefix.pch
+c000000004CD1DFE000000000000000B5
+t1288822752
+s181
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/aboveaveragejoeconway/Documents/XCode/Circle/Classes/Circle.h
+c000000004CD588460000000000000214
+t1289062470
+s532
+i<Foundation/Foundation.h>
+
+N/Users/aboveaveragejoeconway/Documents/XCode/Circle/Classes/Circle.m
+c000000004CD5886C0000000000000171
+t1289062508
+s369
+i"Circle.h"
+
+N/Users/aboveaveragejoeconway/Documents/XCode/Circle/Classes/CircleAppDelegate.h
+c000000004CD1DFE000000000000001DD
+t1288822752
+s477
+i<UIKit/UIKit.h>
+
+N/Users/aboveaveragejoeconway/Documents/XCode/Circle/Classes/CircleAppDelegate.m
+c000000004CD1DFE00000000000000A94
+t1288822752
+s2708
+i"CircleAppDelegate.h"
+i"CircleViewController.h"
+
+N/Users/aboveaveragejoeconway/Documents/XCode/Circle/Classes/CircleViewController.h
+c000000004CD58F070000000000000264
+t1289064199
+s612
+i<UIKit/UIKit.h>
+i<QuartzCore/QuartzCore.h>
+i"Circle.h"
+
+N/Users/aboveaveragejoeconway/Documents/XCode/Circle/Classes/CircleViewController.m
+c000000004CD59D280000000000000F8A
+t1289067816
+s3978
+i"CircleViewController.h"
+
+N/Users/aboveaveragejoeconway/Documents/XCode/Circle/Classes/GameCanvas.h
+c000000004CD584C1000000000000017E
+t1289061569
+s382
+i<UIKit/UIKit.h>
+i"CircleViewController.h"
+
+N/Users/aboveaveragejoeconway/Documents/XCode/Circle/Classes/GameCanvas.m
+c000000004CD59ED3000000000000102F
+t1289068243
+s4143
+i"GameCanvas.h"
+
+N/Users/aboveaveragejoeconway/Documents/XCode/Circle/MainWindow.xib
+c000000004CD1DFE00000000000004E1D
+t1288822752
+s19997
+
+N/Users/aboveaveragejoeconway/Documents/XCode/Circle/Resources/Default.png
+c000000004CD1DEA500000000000077AB
+t1288822437
+s30635
+
+N/Users/aboveaveragejoeconway/Documents/XCode/Circle/Resources/Icon.png
+c000000004CD1DEA5000000000000246F
+t1288822437
+s9327
+
+N/Users/aboveaveragejoeconway/Documents/XCode/Circle/Resources/fps_images.png
+c000000004CD1DEA5000000000000183B
+t1288822437
+s6203
+
+N/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug/Circle.build/Objects-normal/i386/Circle
+t2
+s0
+
+N/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug/Circle.build/Objects-normal/i386/Circle.LinkFileList
+c000000004CD5A10E000000000000026E
+t1289068814
+s622
+
+N/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug/Circle.build/Objects-normal/i386/Circle.o
+t2
+s0
+
+N/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug/Circle.build/Objects-normal/i386/CircleAppDelegate.o
+t2
+s0
+
+N/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug/Circle.build/Objects-normal/i386/CircleViewController.o
+t2
+s0
+
+N/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug/Circle.build/Objects-normal/i386/GameCanvas.o
+t2
+s0
+
+N/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug/Circle.build/Objects-normal/i386/main.o
+t2
+s0
+
+N/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug/Circle.build/Objects-normal/ppc/Circle
+t2
+s0
+
+N/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug/Circle.build/Objects-normal/ppc/Circle.LinkFileList
+c000000004CD5A10E0000000000000269
+t1289068814
+s617
+
+N/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug/Circle.build/Objects-normal/ppc/Circle.o
+t2
+s0
+
+N/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug/Circle.build/Objects-normal/ppc/CircleAppDelegate.o
+t2
+s0
+
+N/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug/Circle.build/Objects-normal/ppc/CircleViewController.o
+t2
+s0
+
+N/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug/Circle.build/Objects-normal/ppc/GameCanvas.o
+t2
+s0
+
+N/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug/Circle.build/Objects-normal/ppc/main.o
+t2
+s0
+
+N/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Debug/Circle.app
+t2
+s0
+
+N/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Debug/Circle.app/Contents/Info.plist
+t1289068814
+s804
+
+N/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Debug/Circle.app/Contents/MacOS/Circle
+t2
+s0
+
+N/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Debug/Circle.app/Contents/PkgInfo
+t1289068814
+s8
+
+N/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Debug/Circle.app/Contents/Resources/CircleViewController.nib
+t2
+s0
+
+N/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Debug/Circle.app/Contents/Resources/Default.png
+t2
+s0
+
+N/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Debug/Circle.app/Contents/Resources/Icon.png
+t2
+s0
+
+N/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Debug/Circle.app/Contents/Resources/MainWindow.nib
+t2
+s0
+
+N/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Debug/Circle.app/Contents/Resources/fps_images.png
+t2
+s0
+
+N/Users/aboveaveragejoeconway/Documents/XCode/Circle/main.m
+c000000004CD1DFE0000000000000016C
+t1288822752
+s364
+i<UIKit/UIKit.h>
+
+N/var/folders/Gd/Gd2fwFC0Em4MkC4Y8VsB3++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Circle_Prefix-fccinjzjqrgrhcagwlnrzvmgcxrq/Circle_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/Gd/Gd2fwFC0Em4MkC4Y8VsB3++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Circle_Prefix-ftxtqotrwxhyvigyrlibkijrqfhe/Circle_Prefix.pch.gch
+t2
+s0
+
+NCircle-Info.plist
+c000000004CD1DFE0000000000000038D
+t1288822752
+s909
+
+NResources/Info.plist
+c000000004CD1DEA5000000000000038E
+t1288822437
+s910
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies310761614#310761614#0(0"0(0#1#0"8622658848#0"0#
+
+CCompileC build/Circle.build/Debug/Circle.build/Objects-normal/i386/Circle.o /Users/aboveaveragejoeconway/Documents/XCode/Circle/Classes/Circle.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Circle.build/Debug/Circle.build/Objects-normal/i386/CircleAppDelegate.o /Users/aboveaveragejoeconway/Documents/XCode/Circle/Classes/CircleAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Circle.build/Debug/Circle.build/Objects-normal/i386/CircleViewController.o /Users/aboveaveragejoeconway/Documents/XCode/Circle/Classes/CircleViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Circle.build/Debug/Circle.build/Objects-normal/i386/GameCanvas.o /Users/aboveaveragejoeconway/Documents/XCode/Circle/Classes/GameCanvas.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Circle.build/Debug/Circle.build/Objects-normal/i386/main.o /Users/aboveaveragejoeconway/Documents/XCode/Circle/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Circle.build/Debug/Circle.build/Objects-normal/ppc/Circle.o /Users/aboveaveragejoeconway/Documents/XCode/Circle/Classes/Circle.m normal ppc objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Circle.build/Debug/Circle.build/Objects-normal/ppc/CircleAppDelegate.o /Users/aboveaveragejoeconway/Documents/XCode/Circle/Classes/CircleAppDelegate.m normal ppc objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Circle.build/Debug/Circle.build/Objects-normal/ppc/CircleViewController.o /Users/aboveaveragejoeconway/Documents/XCode/Circle/Classes/CircleViewController.m normal ppc objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Circle.build/Debug/Circle.build/Objects-normal/ppc/GameCanvas.o /Users/aboveaveragejoeconway/Documents/XCode/Circle/Classes/GameCanvas.m normal ppc objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/Circle.build/Debug/Circle.build/Objects-normal/ppc/main.o /Users/aboveaveragejoeconway/Documents/XCode/Circle/main.m normal ppc objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileXIB /Users/aboveaveragejoeconway/Documents/XCode/Circle/CircleViewController.xib
+s310761614.786266
+e310761614.963844
+r0
+xCompileXIB
+x/Users/aboveaveragejoeconway/Documents/XCode/Circle/CircleViewController.xib
+o2010-11-06 18:40:14.952 ibtool[57348:607] Unexpected SDK identifier macosx10.6
+o/* com.apple.ibtool.errors */
+o/Users/aboveaveragejoeconway/Documents/XCode/Circle/CircleViewController.xib: error: ibtool failed with exception: Unexpected SDK identifier macosx10.6
+lSLF07#2@35"CompileXIB CircleViewController.xib310761614#310761614#0(261"2010-11-06 18:40:14.952 ibtool[57348:607] Unexpected SDK identifier macosx10.6/* com.apple.ibtool.errors *//Users/aboveaveragejoeconway/Documents/XCode/Circle/CircleViewController.xib: error: ibtool failed with exception: Unexpected SDK identifier macosx10.61(4@66"ibtool failed with exception: Unexpected SDK identifier macosx10.6310761614#18446744073709551615#0#0(6@76"/Users/aboveaveragejoeconway/Documents/XCode/Circle/CircleViewController.xib310665346#0#0#0#0#0"0(0#0#76"/Users/aboveaveragejoeconway/Documents/XCode/Circle/CircleViewController.xib8627484640#398"    cd /Users/aboveaveragejoeconway/Documents/XCode/Circle    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Debug/Circle.app/Contents/Resources/CircleViewController.nib /Users/aboveaveragejoeconway/Documents/XCode/Circle/CircleViewController.xib --sdk /Developer/SDKs/MacOSX10.6.sdk1#
+
+CCompileXIB /Users/aboveaveragejoeconway/Documents/XCode/Circle/MainWindow.xib
+s310761614.785128
+e310761614.970494
+r0
+xCompileXIB
+x/Users/aboveaveragejoeconway/Documents/XCode/Circle/MainWindow.xib
+o2010-11-06 18:40:14.963 ibtool[57347:607] Unexpected SDK identifier macosx10.6
+o/* com.apple.ibtool.errors */
+o/Users/aboveaveragejoeconway/Documents/XCode/Circle/MainWindow.xib: error: ibtool failed with exception: Unexpected SDK identifier macosx10.6
+lSLF07#2@25"CompileXIB MainWindow.xib310761614#310761614#0(251"2010-11-06 18:40:14.963 ibtool[57347:607] Unexpected SDK identifier macosx10.6/* com.apple.ibtool.errors *//Users/aboveaveragejoeconway/Documents/XCode/Circle/MainWindow.xib: error: ibtool failed with exception: Unexpected SDK identifier macosx10.61(4@66"ibtool failed with exception: Unexpected SDK identifier macosx10.6310761614#18446744073709551615#0#0(6@66"/Users/aboveaveragejoeconway/Documents/XCode/Circle/MainWindow.xib310515552#0#0#0#0#0"0(0#0#66"/Users/aboveaveragejoeconway/Documents/XCode/Circle/MainWindow.xib8627563392#378"    cd /Users/aboveaveragejoeconway/Documents/XCode/Circle    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Debug/Circle.app/Contents/Resources/MainWindow.nib /Users/aboveaveragejoeconway/Documents/XCode/Circle/MainWindow.xib --sdk /Developer/SDKs/MacOSX10.6.sdk1#
+
+CCpResource build/Debug/Circle.app/Contents/Resources/Default.png Resources/Default.png
+r0
+
+CCpResource build/Debug/Circle.app/Contents/Resources/Icon.png Resources/Icon.png
+r0
+
+CCpResource build/Debug/Circle.app/Contents/Resources/fps_images.png Resources/fps_images.png
+r0
+
+CCreateUniversalBinary /Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Debug/Circle.app/Contents/MacOS/Circle normal "i386 ppc"
+r0
+
+CLd /Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug/Circle.build/Objects-normal/i386/Circle normal i386
+r0
+
+CLd /Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug/Circle.build/Objects-normal/ppc/Circle normal ppc
+r0
+
+CProcessInfoPlistFile /Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Debug/Circle.app/Contents/Info.plist Circle-Info.plist
+s310761614.780373
+e310761614.785039
+r1
+xProcessInfoPlistFile
+x/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Debug/Circle.app/Contents/Info.plist
+xCircle-Info.plist
+lSLF07#2@25"Process Circle-Info.plist310761614#310761614#0(0"0(0#0#69"/Users/aboveaveragejoeconway/Documents/XCode/Circle/Circle-Info.plist8627903520#346"    cd /Users/aboveaveragejoeconway/Documents/XCode/Circle    builtin-infoPlistUtility Circle-Info.plist -genpkginfo /Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Debug/Circle.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Debug/Circle.app/Contents/Info.plist0#
+
+CProcessInfoPlistFile /Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Debug/Circle.app/Contents/Info.plist Resources/Info.plist
+r0
+
+CProcessPCH /var/folders/Gd/Gd2fwFC0Em4MkC4Y8VsB3++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Circle_Prefix-fccinjzjqrgrhcagwlnrzvmgcxrq/Circle_Prefix.pch.gch Circle_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s310761614.970624
+e310761624.714018
+r0
+xProcessPCH
+x/var/folders/Gd/Gd2fwFC0Em4MkC4Y8VsB3++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Circle_Prefix-fccinjzjqrgrhcagwlnrzvmgcxrq/Circle_Prefix.pch.gch
+xCircle_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/aboveaveragejoeconway/Documents/XCode/Circle/Circle_Prefix.pch:7:28: error: UIKit/UIKit.h: No such file or directory
+lSLF07#2@28"Precompile Circle_Prefix.pch310761614#310761624#0(124"/Users/aboveaveragejoeconway/Documents/XCode/Circle/Circle_Prefix.pch:7:28: error: UIKit/UIKit.h: No such file or directory1(4@40"UIKit/UIKit.h: No such file or directory310761615#0#124#0(6@69"/Users/aboveaveragejoeconway/Documents/XCode/Circle/Circle_Prefix.pch310515552#7#0#7#0#28"*: No such file or directory0(0#0#69"/Users/aboveaveragejoeconway/Documents/XCode/Circle/Circle_Prefix.pch8627175360#1462"    cd /Users/aboveaveragejoeconway/Documents/XCode/Circle    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug/Circle.build/Circle-generated-files.hmap -I/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug/Circle.build/Circle-own-target-headers.hmap -I/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug/Circle.build/Circle-all-target-headers.hmap -iquote /Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug/Circle.build/Circle-project-headers.hmap -F/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Debug -I/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Debug/include -I/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug/Circle.build/DerivedSources/i386 -I/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug/Circle.build/DerivedSources -c /Users/aboveaveragejoeconway/Documents/XCode/Circle/Circle_Prefix.pch -o /var/folders/Gd/Gd2fwFC0Em4MkC4Y8VsB3++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Circle_Prefix-fccinjzjqrgrhcagwlnrzvmgcxrq/Circle_Prefix.pch.gch1#
+
+CProcessPCH /var/folders/Gd/Gd2fwFC0Em4MkC4Y8VsB3++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Circle_Prefix-ftxtqotrwxhyvigyrlibkijrqfhe/Circle_Prefix.pch.gch Circle_Prefix.pch normal ppc objective-c com.apple.compilers.gcc.4_2
+s310761614.972934
+e310761622.808187
+r0
+xProcessPCH
+x/var/folders/Gd/Gd2fwFC0Em4MkC4Y8VsB3++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Circle_Prefix-ftxtqotrwxhyvigyrlibkijrqfhe/Circle_Prefix.pch.gch
+xCircle_Prefix.pch
+xnormal
+xppc
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/aboveaveragejoeconway/Documents/XCode/Circle/Circle_Prefix.pch:7:28: error: UIKit/UIKit.h: No such file or directory
+lSLF07#2@28"Precompile Circle_Prefix.pch310761614#310761622#0(124"/Users/aboveaveragejoeconway/Documents/XCode/Circle/Circle_Prefix.pch:7:28: error: UIKit/UIKit.h: No such file or directory1(4@40"UIKit/UIKit.h: No such file or directory310761615#0#124#0(6@69"/Users/aboveaveragejoeconway/Documents/XCode/Circle/Circle_Prefix.pch310515552#7#0#7#0#28"*: No such file or directory0(0#0#69"/Users/aboveaveragejoeconway/Documents/XCode/Circle/Circle_Prefix.pch8626700768#1470"    cd /Users/aboveaveragejoeconway/Documents/XCode/Circle    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch ppc -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mtune=G4 -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug/Circle.build/Circle-generated-files.hmap -I/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug/Circle.build/Circle-own-target-headers.hmap -I/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug/Circle.build/Circle-all-target-headers.hmap -iquote /Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug/Circle.build/Circle-project-headers.hmap -F/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Debug -I/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Debug/include -I/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug/Circle.build/DerivedSources/ppc -I/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug/Circle.build/DerivedSources -c /Users/aboveaveragejoeconway/Documents/XCode/Circle/Circle_Prefix.pch -o /var/folders/Gd/Gd2fwFC0Em4MkC4Y8VsB3++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Circle_Prefix-ftxtqotrwxhyvigyrlibkijrqfhe/Circle_Prefix.pch.gch1#
+
+CTouch /Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Debug/Circle.app
+r0
+

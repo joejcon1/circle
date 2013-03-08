@@ -1,0 +1,756 @@
+TCircle
+v5
+r0
+t312743025.379835
+cCheck dependencies
+cCpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/ResourceRules.plist build/Debug-iphoneos/Circle.app/ResourceRules.plist
+cProcessInfoPlistFile /Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Debug-iphoneos/Circle.app/Info.plist Circle-Info.plist
+cCompileXIB /Users/aboveaveragejoeconway/Documents/XCode/Circle/MainWindow.xib
+cCompileXIB /Users/aboveaveragejoeconway/Documents/XCode/Circle/CircleViewController.xib
+cProcessPCH /var/folders/9_/8kqw8lh91k3660w6k2m7hd2h0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Circle_Prefix-bdskbnofxocqavdbrnrjvaxvjzff/Circle_Prefix.pch.pth Circle_Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Circle.build/Debug-iphoneos/Circle.build/Objects-normal/armv7/main.o /Users/aboveaveragejoeconway/Documents/XCode/Circle/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Circle.build/Debug-iphoneos/Circle.build/Objects-normal/armv7/CircleAppDelegate.o /Users/aboveaveragejoeconway/Documents/XCode/Circle/Classes/CircleAppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Circle.build/Debug-iphoneos/Circle.build/Objects-normal/armv7/CircleViewController.o /Users/aboveaveragejoeconway/Documents/XCode/Circle/Classes/CircleViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Circle.build/Debug-iphoneos/Circle.build/Objects-normal/armv7/GameCanvas.o /Users/aboveaveragejoeconway/Documents/XCode/Circle/Classes/GameCanvas.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Circle.build/Debug-iphoneos/Circle.build/Objects-normal/armv7/Circle.o /Users/aboveaveragejoeconway/Documents/XCode/Circle/Classes/Circle.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Debug-iphoneos/Circle.app/Circle normal armv7
+cGenerateDSYMFile /Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Debug-iphoneos/Circle.app.dSYM /Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Debug-iphoneos/Circle.app/Circle
+cProcessProductPackaging "/Users/aboveaveragejoeconway/Library/MobileDevice/Provisioning Profiles/ABDCAE2B-6A2B-4BAA-B8DC-52D4B94FE637.mobileprovision" /Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Debug-iphoneos/Circle.app/embedded.mobileprovision
+cProcessProductPackaging "/Users/aboveaveragejoeconway/Library/MobileDevice/Provisioning Profiles/ABDCAE2B-6A2B-4BAA-B8DC-52D4B94FE637.mobileprovision" /Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Debug-iphoneos/Circle.app/embedded.mobileprovision
+cTouch /Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Debug-iphoneos/Circle.app
+cProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/Entitlements.plist /Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug-iphoneos/Circle.build/Circle.xcent
+cCodeSign /Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Debug-iphoneos/Circle.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk
+c000000004F161A570000000000000110
+t1326848599
+s272
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/Entitlements.plist
+c000000004F4D236900000000000001A7
+t1330455401
+s423
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/ResourceRules.plist
+c000000004F4D236900000000000001E5
+t1330455401
+s485
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004F4D236C00000000003AE420
+t1330455404
+s3859488
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004F4D236D000000000052C940
+t1330455405
+s5425472
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004F4D236C0000000000001534
+t1330455404
+s5428
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004F4D236D00000000001745D0
+t1330455405
+s1525200
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004F4D236E0000000000000BCB
+t1330455406
+s3019
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004F4D236F000000000078D300
+t1330455407
+s7918336
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk
+c000000004CC7DC9E0000000000000110
+t1288166558
+s272
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist
+c000000004CB3DFCF00000000000001A7
+t1286856655
+s423
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+c000000004CB3DFCF00000000000001E5
+t1286856655
+s485
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC10EF500000000003532B0
+t1287720693
+s3486384
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC10F4700000000003E1F20
+t1287720775
+s4071200
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC10F1C0000000000001466
+t1287720732
+s5222
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004CC1111C00000000000000C4
+t1287721244
+s196
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004CC1127D0000000000267530
+t1287721597
+s2520368
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC11AE60000000000000AA1
+t1287723750
+s2721
+
+N/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC11B750000000000C769F0
+t1287723893
+s13068784
+
+N/Users/aboveaveragejoeconway/Documents/XCode/Circle/CircleViewController.xib
+c000000004CD429020000000000004035
+t1288972546
+s16437
+
+N/Users/aboveaveragejoeconway/Documents/XCode/Circle/Circle_Prefix.pch
+c000000004CD1DFE000000000000000B5
+t1288822752
+s181
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/aboveaveragejoeconway/Documents/XCode/Circle/Classes/Circle.h
+c000000004CD588460000000000000214
+t1289062470
+s532
+i<Foundation/Foundation.h>
+
+N/Users/aboveaveragejoeconway/Documents/XCode/Circle/Classes/Circle.m
+c000000004D0398390000000000000171
+t1292081209
+s369
+i"Circle.h"
+
+N/Users/aboveaveragejoeconway/Documents/XCode/Circle/Classes/CircleAppDelegate.h
+c000000004CD1DFE000000000000001DD
+t1288822752
+s477
+i<UIKit/UIKit.h>
+
+N/Users/aboveaveragejoeconway/Documents/XCode/Circle/Classes/CircleAppDelegate.m
+c000000004CD1DFE00000000000000A94
+t1288822752
+s2708
+i"CircleAppDelegate.h"
+i"CircleViewController.h"
+
+N/Users/aboveaveragejoeconway/Documents/XCode/Circle/Classes/CircleViewController.h
+c000000004CD58F070000000000000264
+t1289064199
+s612
+i<UIKit/UIKit.h>
+i<QuartzCore/QuartzCore.h>
+i"Circle.h"
+
+N/Users/aboveaveragejoeconway/Documents/XCode/Circle/Classes/CircleViewController.m
+c000000004D0398760000000000000F83
+t1292081270
+s3971
+i"CircleViewController.h"
+
+N/Users/aboveaveragejoeconway/Documents/XCode/Circle/Classes/GameCanvas.h
+c000000004CD584C1000000000000017E
+t1289061569
+s382
+i<UIKit/UIKit.h>
+i"CircleViewController.h"
+
+N/Users/aboveaveragejoeconway/Documents/XCode/Circle/Classes/GameCanvas.m
+c000000004F50B26B000000000000106A
+t1330688619
+s4202
+i"GameCanvas.h"
+
+N/Users/aboveaveragejoeconway/Documents/XCode/Circle/MainWindow.xib
+c000000004CD1DFE00000000000004E1D
+t1288822752
+s19997
+
+N/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug-iphoneos/Circle.build/Circle.xcent
+t1330688161
+s418
+
+N/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug-iphoneos/Circle.build/Objects-normal/armv6/Circle
+t1289068252
+s38804
+
+N/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug-iphoneos/Circle.build/Objects-normal/armv6/Circle.LinkFileList
+c000000004CD4293400000000000002A0
+t1288972596
+s672
+
+N/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug-iphoneos/Circle.build/Objects-normal/armv6/Circle.o
+t1289068248
+s11840
+
+N/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug-iphoneos/Circle.build/Objects-normal/armv6/CircleAppDelegate.o
+t1289068248
+s51616
+
+N/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug-iphoneos/Circle.build/Objects-normal/armv6/CircleViewController.o
+t1289068248
+s58104
+
+N/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug-iphoneos/Circle.build/Objects-normal/armv6/GameCanvas.o
+t1289068248
+s57332
+
+N/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug-iphoneos/Circle.build/Objects-normal/armv6/main.o
+t1288972597
+s6472
+
+N/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug-iphoneos/Circle.build/Objects-normal/armv7/Circle
+t1289068253
+s37780
+
+N/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug-iphoneos/Circle.build/Objects-normal/armv7/Circle.LinkFileList
+c000000004CD4293300000000000002A0
+t1288972595
+s672
+
+N/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug-iphoneos/Circle.build/Objects-normal/armv7/Circle.o
+t1330688160
+s10492
+
+N/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug-iphoneos/Circle.build/Objects-normal/armv7/CircleAppDelegate.o
+t1330688160
+s62184
+
+N/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug-iphoneos/Circle.build/Objects-normal/armv7/CircleViewController.o
+t1330688160
+s65796
+
+N/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug-iphoneos/Circle.build/Objects-normal/armv7/GameCanvas.o
+t1330688406
+s60516
+
+N/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug-iphoneos/Circle.build/Objects-normal/armv7/main.o
+t1330688160
+s3880
+
+N/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Debug-iphoneos/Circle.app
+t1330688407
+s374
+
+N/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Debug-iphoneos/Circle.app.dSYM
+t1330688406
+s102
+
+N/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Debug-iphoneos/Circle.app/Circle
+t1330688407
+s44272
+
+N/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Debug-iphoneos/Circle.app/CircleViewController.nib
+t1330688157
+s970
+
+N/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Debug-iphoneos/Circle.app/Info.plist
+t1330688156
+s823
+
+N/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Debug-iphoneos/Circle.app/MainWindow.nib
+t1330688157
+s1138
+
+N/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Debug-iphoneos/Circle.app/PkgInfo
+t1330688156
+s8
+
+N/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Debug-iphoneos/Circle.app/ResourceRules.plist
+t1330688156
+s485
+
+N/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Debug-iphoneos/Circle.app/embedded.mobileprovision
+t1330688161
+s7287
+
+N/Users/aboveaveragejoeconway/Documents/XCode/Circle/main.m
+c000000004CD1DFE0000000000000016C
+t1288822752
+s364
+i<UIKit/UIKit.h>
+
+N/Users/aboveaveragejoeconway/Library/MobileDevice/Provisioning Profiles/472A325A-2E55-4949-BC1F-377D2C11EA8A.mobileprovision
+c000000004CAAF3170000000000001BF7
+t1286271767
+s7159
+
+N/Users/aboveaveragejoeconway/Library/MobileDevice/Provisioning Profiles/ABDCAE2B-6A2B-4BAA-B8DC-52D4B94FE637.mobileprovision
+c000000004EA83DF70000000000001C77
+t1319648759
+s7287
+
+N/Users/aboveaveragejoeconway/Library/MobileDevice/Provisioning Profiles/FDA175AC-986B-4337-809B-B5BD0B0D80C5.mobileprovision
+c00000000000000000000000000000000
+t2
+s0
+
+N/var/folders/9_/8kqw8lh91k3660w6k2m7hd2h0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Circle_Prefix-bdskbnofxocqavdbrnrjvaxvjzff/Circle_Prefix.pch.pth
+t1330688159
+s3961244
+
+N/var/folders/Gd/Gd2fwFC0Em4MkC4Y8VsB3++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Circle_Prefix-bjexdyccrfwthocbcxaspgabrgnn/Circle_Prefix.pch.gch
+t1288972597
+s9983704
+
+N/var/folders/Gd/Gd2fwFC0Em4MkC4Y8VsB3++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Circle_Prefix-curyjbjaiorrrbacidiyuwgnqczp/Circle_Prefix.pch.gch
+t1288972597
+s10446552
+
+NCircle-Info.plist
+c000000004CD1DFE0000000000000038D
+t1288822752
+s909
+
+CBuild AST from /Users/aboveaveragejoeconway/Documents/XCode/Circle/Classes/Circle.m
+r0
+
+CBuild AST from /Users/aboveaveragejoeconway/Documents/XCode/Circle/Classes/CircleAppDelegate.m
+r0
+
+CBuild AST from /Users/aboveaveragejoeconway/Documents/XCode/Circle/Classes/CircleViewController.m
+r0
+
+CBuild AST from /Users/aboveaveragejoeconway/Documents/XCode/Circle/Classes/GameCanvas.m
+r0
+
+CBuild AST from /Users/aboveaveragejoeconway/Documents/XCode/Circle/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciesb2d529ece900b541^4d4d2aece900b541^---0#1#0#--18"Check dependencies36"8065E048-C1C9-4A6D-BF2C-3A5FA8515B93-
+
+CCodeSign /Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Debug-iphoneos/Circle.app
+s352381420.414061
+e352381420.638846
+r1
+xCodeSign
+x/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Debug-iphoneos/Circle.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection40"CodeSign build/Debug-iphoneos/Circle.app30126aece900b541^9c8ba3ece900b541^---0#0#0#-19%DVTDocumentLocation2@100"file://localhost/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Debug-iphoneos/Circle.app/0000000000000000^834"CodeSign build/Debug-iphoneos/Circle.app    cd /Users/aboveaveragejoeconway/Documents/XCode/Circle    setenv CODESIGN_ALLOCATE /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/codesign_allocate    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/codesign --force --sign 35383935b078e2e5193b9a6183d42cf68201fdee --resource-rules=/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Debug-iphoneos/Circle.app/ResourceRules.plist --entitlements /Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug-iphoneos/Circle.build/Circle.xcent /Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Debug-iphoneos/Circle.app36"20BFE934-57EE-4AE1-84F0-E4395CD1307E-
+
+CCompileC build/Circle.build/Debug-iphoneos/Circle.build/Objects-normal/armv6/Circle.o /Users/aboveaveragejoeconway/Documents/XCode/Circle/Classes/Circle.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s310761048.502824
+e310761048.593333
+r1
+xCompileC
+xbuild/Circle.build/Debug-iphoneos/Circle.build/Objects-normal/armv6/Circle.o
+x/Users/aboveaveragejoeconway/Documents/XCode/Circle/Classes/Circle.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@76"Compile /Users/aboveaveragejoeconway/Documents/XCode/Circle/Classes/Circle.m310761048#310761048#0(0"0(0#0#68"/Users/aboveaveragejoeconway/Documents/XCode/Circle/Classes/Circle.m8622735008#1859"    cd /Users/aboveaveragejoeconway/Documents/XCode/Circle    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug-iphoneos/Circle.build/Circle-generated-files.hmap -I/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug-iphoneos/Circle.build/Circle-own-target-headers.hmap -I/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug-iphoneos/Circle.build/Circle-all-target-headers.hmap -iquote /Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug-iphoneos/Circle.build/Circle-project-headers.hmap -F/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Debug-iphoneos -I/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Debug-iphoneos/include -I/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug-iphoneos/Circle.build/DerivedSources/armv6 -I/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug-iphoneos/Circle.build/DerivedSources -include /var/folders/Gd/Gd2fwFC0Em4MkC4Y8VsB3++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Circle_Prefix-bjexdyccrfwthocbcxaspgabrgnn/Circle_Prefix.pch -c /Users/aboveaveragejoeconway/Documents/XCode/Circle/Classes/Circle.m -o /Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug-iphoneos/Circle.build/Objects-normal/armv6/Circle.o0#
+
+CCompileC build/Circle.build/Debug-iphoneos/Circle.build/Objects-normal/armv6/CircleAppDelegate.o /Users/aboveaveragejoeconway/Documents/XCode/Circle/Classes/CircleAppDelegate.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s310761045.051180
+e310761048.471058
+r1
+xCompileC
+xbuild/Circle.build/Debug-iphoneos/Circle.build/Objects-normal/armv6/CircleAppDelegate.o
+x/Users/aboveaveragejoeconway/Documents/XCode/Circle/Classes/CircleAppDelegate.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@87"Compile /Users/aboveaveragejoeconway/Documents/XCode/Circle/Classes/CircleAppDelegate.m310761045#310761048#0(0"0(0#0#79"/Users/aboveaveragejoeconway/Documents/XCode/Circle/Classes/CircleAppDelegate.m8623346592#1881"    cd /Users/aboveaveragejoeconway/Documents/XCode/Circle    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug-iphoneos/Circle.build/Circle-generated-files.hmap -I/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug-iphoneos/Circle.build/Circle-own-target-headers.hmap -I/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug-iphoneos/Circle.build/Circle-all-target-headers.hmap -iquote /Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug-iphoneos/Circle.build/Circle-project-headers.hmap -F/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Debug-iphoneos -I/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Debug-iphoneos/include -I/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug-iphoneos/Circle.build/DerivedSources/armv6 -I/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug-iphoneos/Circle.build/DerivedSources -include /var/folders/Gd/Gd2fwFC0Em4MkC4Y8VsB3++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Circle_Prefix-bjexdyccrfwthocbcxaspgabrgnn/Circle_Prefix.pch -c /Users/aboveaveragejoeconway/Documents/XCode/Circle/Classes/CircleAppDelegate.m -o /Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug-iphoneos/Circle.build/Objects-normal/armv6/CircleAppDelegate.o0#
+
+CCompileC build/Circle.build/Debug-iphoneos/Circle.build/Objects-normal/armv6/CircleViewController.o /Users/aboveaveragejoeconway/Documents/XCode/Circle/Classes/CircleViewController.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s310761045.052994
+e310761048.502661
+r1
+xCompileC
+xbuild/Circle.build/Debug-iphoneos/Circle.build/Objects-normal/armv6/CircleViewController.o
+x/Users/aboveaveragejoeconway/Documents/XCode/Circle/Classes/CircleViewController.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@90"Compile /Users/aboveaveragejoeconway/Documents/XCode/Circle/Classes/CircleViewController.m310761045#310761048#0(0"0(0#0#82"/Users/aboveaveragejoeconway/Documents/XCode/Circle/Classes/CircleViewController.m8620663296#1887"    cd /Users/aboveaveragejoeconway/Documents/XCode/Circle    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug-iphoneos/Circle.build/Circle-generated-files.hmap -I/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug-iphoneos/Circle.build/Circle-own-target-headers.hmap -I/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug-iphoneos/Circle.build/Circle-all-target-headers.hmap -iquote /Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug-iphoneos/Circle.build/Circle-project-headers.hmap -F/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Debug-iphoneos -I/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Debug-iphoneos/include -I/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug-iphoneos/Circle.build/DerivedSources/armv6 -I/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug-iphoneos/Circle.build/DerivedSources -include /var/folders/Gd/Gd2fwFC0Em4MkC4Y8VsB3++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Circle_Prefix-bjexdyccrfwthocbcxaspgabrgnn/Circle_Prefix.pch -c /Users/aboveaveragejoeconway/Documents/XCode/Circle/Classes/CircleViewController.m -o /Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug-iphoneos/Circle.build/Objects-normal/armv6/CircleViewController.o0#
+
+CCompileC build/Circle.build/Debug-iphoneos/Circle.build/Objects-normal/armv6/GameCanvas.o /Users/aboveaveragejoeconway/Documents/XCode/Circle/Classes/GameCanvas.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s310761048.471303
+e310761048.693840
+r1
+xCompileC
+xbuild/Circle.build/Debug-iphoneos/Circle.build/Objects-normal/armv6/GameCanvas.o
+x/Users/aboveaveragejoeconway/Documents/XCode/Circle/Classes/GameCanvas.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/aboveaveragejoeconway/Documents/XCode/Circle/Classes/GameCanvas.m: In function '-[GameCanvas drawRect:]':
+o/Users/aboveaveragejoeconway/Documents/XCode/Circle/Classes/GameCanvas.m:75: warning: unused variable 'offsetY'
+lSLF07#2@80"Compile /Users/aboveaveragejoeconway/Documents/XCode/Circle/Classes/GameCanvas.m310761048#310761048#0(225"/Users/aboveaveragejoeconway/Documents/XCode/Circle/Classes/GameCanvas.m: In function '-[GameCanvas drawRect:]':/Users/aboveaveragejoeconway/Documents/XCode/Circle/Classes/GameCanvas.m:75: warning: unused variable 'offsetY'1(22@25"Unused variable 'offsetY'310761048#113#112#0(6@72"/Users/aboveaveragejoeconway/Documents/XCode/Circle/Classes/GameCanvas.m310761043#75#0#75#0#19"unused variable '*'0(0#0#72"/Users/aboveaveragejoeconway/Documents/XCode/Circle/Classes/GameCanvas.m8623469856#1867"    cd /Users/aboveaveragejoeconway/Documents/XCode/Circle    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug-iphoneos/Circle.build/Circle-generated-files.hmap -I/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug-iphoneos/Circle.build/Circle-own-target-headers.hmap -I/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug-iphoneos/Circle.build/Circle-all-target-headers.hmap -iquote /Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug-iphoneos/Circle.build/Circle-project-headers.hmap -F/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Debug-iphoneos -I/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Debug-iphoneos/include -I/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug-iphoneos/Circle.build/DerivedSources/armv6 -I/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug-iphoneos/Circle.build/DerivedSources -include /var/folders/Gd/Gd2fwFC0Em4MkC4Y8VsB3++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Circle_Prefix-bjexdyccrfwthocbcxaspgabrgnn/Circle_Prefix.pch -c /Users/aboveaveragejoeconway/Documents/XCode/Circle/Classes/GameCanvas.m -o /Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug-iphoneos/Circle.build/Objects-normal/armv6/GameCanvas.o0#
+
+CCompileC build/Circle.build/Debug-iphoneos/Circle.build/Objects-normal/armv6/main.o /Users/aboveaveragejoeconway/Documents/XCode/Circle/main.m normal armv6 objective-c com.apple.compilers.gcc.4_2
+s310665397.745424
+e310665397.871246
+r1
+xCompileC
+xbuild/Circle.build/Debug-iphoneos/Circle.build/Objects-normal/armv6/main.o
+x/Users/aboveaveragejoeconway/Documents/XCode/Circle/main.m
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@66"Compile /Users/aboveaveragejoeconway/Documents/XCode/Circle/main.m310665397#310665397#0(0"0(0#0#58"/Users/aboveaveragejoeconway/Documents/XCode/Circle/main.m8623022528#1847"    cd /Users/aboveaveragejoeconway/Documents/XCode/Circle    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug-iphoneos/Circle.build/Circle-generated-files.hmap -I/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug-iphoneos/Circle.build/Circle-own-target-headers.hmap -I/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug-iphoneos/Circle.build/Circle-all-target-headers.hmap -iquote /Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug-iphoneos/Circle.build/Circle-project-headers.hmap -F/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Debug-iphoneos -I/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Debug-iphoneos/include -I/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug-iphoneos/Circle.build/DerivedSources/armv6 -I/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug-iphoneos/Circle.build/DerivedSources -include /var/folders/Gd/Gd2fwFC0Em4MkC4Y8VsB3++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Circle_Prefix-bjexdyccrfwthocbcxaspgabrgnn/Circle_Prefix.pch -c /Users/aboveaveragejoeconway/Documents/XCode/Circle/main.m -o /Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug-iphoneos/Circle.build/Objects-normal/armv6/main.o0#
+
+CCompileC build/Circle.build/Debug-iphoneos/Circle.build/Objects-normal/armv7/Circle.o /Users/aboveaveragejoeconway/Documents/XCode/Circle/Classes/Circle.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s310761052.032648
+e310761052.103056
+r1
+xCompileC
+xbuild/Circle.build/Debug-iphoneos/Circle.build/Objects-normal/armv7/Circle.o
+x/Users/aboveaveragejoeconway/Documents/XCode/Circle/Classes/Circle.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@76"Compile /Users/aboveaveragejoeconway/Documents/XCode/Circle/Classes/Circle.m310761052#310761052#0(0"0(0#0#68"/Users/aboveaveragejoeconway/Documents/XCode/Circle/Classes/Circle.m8615152896#1859"    cd /Users/aboveaveragejoeconway/Documents/XCode/Circle    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug-iphoneos/Circle.build/Circle-generated-files.hmap -I/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug-iphoneos/Circle.build/Circle-own-target-headers.hmap -I/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug-iphoneos/Circle.build/Circle-all-target-headers.hmap -iquote /Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug-iphoneos/Circle.build/Circle-project-headers.hmap -F/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Debug-iphoneos -I/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Debug-iphoneos/include -I/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug-iphoneos/Circle.build/DerivedSources/armv7 -I/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug-iphoneos/Circle.build/DerivedSources -include /var/folders/Gd/Gd2fwFC0Em4MkC4Y8VsB3++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Circle_Prefix-curyjbjaiorrrbacidiyuwgnqczp/Circle_Prefix.pch -c /Users/aboveaveragejoeconway/Documents/XCode/Circle/Classes/Circle.m -o /Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug-iphoneos/Circle.build/Objects-normal/armv7/Circle.o0#
+
+CCompileC build/Circle.build/Debug-iphoneos/Circle.build/Objects-normal/armv7/Circle.o /Users/aboveaveragejoeconway/Documents/XCode/Circle/Classes/Circle.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s352380960.466840
+e352380960.545847
+r1
+xCompileC
+xbuild/Circle.build/Debug-iphoneos/Circle.build/Objects-normal/armv7/Circle.o
+x/Users/aboveaveragejoeconway/Documents/XCode/Circle/Classes/Circle.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection76"Compile /Users/aboveaveragejoeconway/Documents/XCode/Circle/Classes/Circle.m81b47720e800b541^5abd8b20e800b541^---0#0#0#-19%DVTDocumentLocation2@84"file://localhost/Users/aboveaveragejoeconway/Documents/XCode/Circle/Classes/Circle.m0000000000000000^3148"CompileC build/Circle.build/Debug-iphoneos/Circle.build/Objects-normal/armv7/Circle.o Classes/Circle.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/aboveaveragejoeconway/Documents/XCode/Circle    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-conversion -Wno-sign-conversion -mthumb "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=5.0 -iquote /Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug-iphoneos/Circle.build/Circle-generated-files.hmap -I/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug-iphoneos/Circle.build/Circle-own-target-headers.hmap -I/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug-iphoneos/Circle.build/Circle-all-target-headers.hmap -iquote /Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug-iphoneos/Circle.build/Circle-project-headers.hmap -I/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Debug-iphoneos/include -I/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug-iphoneos/Circle.build/DerivedSources/armv7 -I/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug-iphoneos/Circle.build/DerivedSources -F/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Debug-iphoneos -include /var/folders/9_/8kqw8lh91k3660w6k2m7hd2h0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Circle_Prefix-bdskbnofxocqavdbrnrjvaxvjzff/Circle_Prefix.pch -MMD -MT dependencies -MF /Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug-iphoneos/Circle.build/Objects-normal/armv7/Circle.d --serialize-diagnostics /Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug-iphoneos/Circle.build/Objects-normal/armv7/Circle.dia -c /Users/aboveaveragejoeconway/Documents/XCode/Circle/Classes/Circle.m -o /Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug-iphoneos/Circle.build/Objects-normal/armv7/Circle.o36"0DA8FBCD-347F-41F0-8FD8-05C1B98845F8-
+
+CCompileC build/Circle.build/Debug-iphoneos/Circle.build/Objects-normal/armv7/CircleAppDelegate.o /Users/aboveaveragejoeconway/Documents/XCode/Circle/Classes/CircleAppDelegate.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s310761048.593557
+e310761051.498491
+r1
+xCompileC
+xbuild/Circle.build/Debug-iphoneos/Circle.build/Objects-normal/armv7/CircleAppDelegate.o
+x/Users/aboveaveragejoeconway/Documents/XCode/Circle/Classes/CircleAppDelegate.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@87"Compile /Users/aboveaveragejoeconway/Documents/XCode/Circle/Classes/CircleAppDelegate.m310761048#310761051#0(0"0(0#0#79"/Users/aboveaveragejoeconway/Documents/XCode/Circle/Classes/CircleAppDelegate.m8613348512#1881"    cd /Users/aboveaveragejoeconway/Documents/XCode/Circle    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug-iphoneos/Circle.build/Circle-generated-files.hmap -I/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug-iphoneos/Circle.build/Circle-own-target-headers.hmap -I/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug-iphoneos/Circle.build/Circle-all-target-headers.hmap -iquote /Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug-iphoneos/Circle.build/Circle-project-headers.hmap -F/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Debug-iphoneos -I/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Debug-iphoneos/include -I/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug-iphoneos/Circle.build/DerivedSources/armv7 -I/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug-iphoneos/Circle.build/DerivedSources -include /var/folders/Gd/Gd2fwFC0Em4MkC4Y8VsB3++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Circle_Prefix-curyjbjaiorrrbacidiyuwgnqczp/Circle_Prefix.pch -c /Users/aboveaveragejoeconway/Documents/XCode/Circle/Classes/CircleAppDelegate.m -o /Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug-iphoneos/Circle.build/Objects-normal/armv7/CircleAppDelegate.o0#
+
+CCompileC build/Circle.build/Debug-iphoneos/Circle.build/Objects-normal/armv7/CircleAppDelegate.o /Users/aboveaveragejoeconway/Documents/XCode/Circle/Classes/CircleAppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s352380959.583188
+e352380960.193085
+r1
+xCompileC
+xbuild/Circle.build/Debug-iphoneos/Circle.build/Objects-normal/armv7/CircleAppDelegate.o
+x/Users/aboveaveragejoeconway/Documents/XCode/Circle/Classes/CircleAppDelegate.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection87"Compile /Users/aboveaveragejoeconway/Documents/XCode/Circle/Classes/CircleAppDelegate.m0e68951fe800b541^f46d3120e800b541^---0#0#0#-19%DVTDocumentLocation2@95"file://localhost/Users/aboveaveragejoeconway/Documents/XCode/Circle/Classes/CircleAppDelegate.m0000000000000000^3214"CompileC build/Circle.build/Debug-iphoneos/Circle.build/Objects-normal/armv7/CircleAppDelegate.o Classes/CircleAppDelegate.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/aboveaveragejoeconway/Documents/XCode/Circle    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-conversion -Wno-sign-conversion -mthumb "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=5.0 -iquote /Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug-iphoneos/Circle.build/Circle-generated-files.hmap -I/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug-iphoneos/Circle.build/Circle-own-target-headers.hmap -I/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug-iphoneos/Circle.build/Circle-all-target-headers.hmap -iquote /Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug-iphoneos/Circle.build/Circle-project-headers.hmap -I/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Debug-iphoneos/include -I/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug-iphoneos/Circle.build/DerivedSources/armv7 -I/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug-iphoneos/Circle.build/DerivedSources -F/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Debug-iphoneos -include /var/folders/9_/8kqw8lh91k3660w6k2m7hd2h0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Circle_Prefix-bdskbnofxocqavdbrnrjvaxvjzff/Circle_Prefix.pch -MMD -MT dependencies -MF /Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug-iphoneos/Circle.build/Objects-normal/armv7/CircleAppDelegate.d --serialize-diagnostics /Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug-iphoneos/Circle.build/Objects-normal/armv7/CircleAppDelegate.dia -c /Users/aboveaveragejoeconway/Documents/XCode/Circle/Classes/CircleAppDelegate.m -o /Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug-iphoneos/Circle.build/Objects-normal/armv7/CircleAppDelegate.o36"4B846D8D-CD52-4ACB-898F-9FF1C96A0FC6-
+
+CCompileC build/Circle.build/Debug-iphoneos/Circle.build/Objects-normal/armv7/CircleViewController.o /Users/aboveaveragejoeconway/Documents/XCode/Circle/Classes/CircleViewController.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s310761051.498732
+e310761051.747638
+r1
+xCompileC
+xbuild/Circle.build/Debug-iphoneos/Circle.build/Objects-normal/armv7/CircleViewController.o
+x/Users/aboveaveragejoeconway/Documents/XCode/Circle/Classes/CircleViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@90"Compile /Users/aboveaveragejoeconway/Documents/XCode/Circle/Classes/CircleViewController.m310761051#310761051#0(0"0(0#0#82"/Users/aboveaveragejoeconway/Documents/XCode/Circle/Classes/CircleViewController.m8619410848#1887"    cd /Users/aboveaveragejoeconway/Documents/XCode/Circle    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug-iphoneos/Circle.build/Circle-generated-files.hmap -I/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug-iphoneos/Circle.build/Circle-own-target-headers.hmap -I/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug-iphoneos/Circle.build/Circle-all-target-headers.hmap -iquote /Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug-iphoneos/Circle.build/Circle-project-headers.hmap -F/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Debug-iphoneos -I/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Debug-iphoneos/include -I/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug-iphoneos/Circle.build/DerivedSources/armv7 -I/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug-iphoneos/Circle.build/DerivedSources -include /var/folders/Gd/Gd2fwFC0Em4MkC4Y8VsB3++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Circle_Prefix-curyjbjaiorrrbacidiyuwgnqczp/Circle_Prefix.pch -c /Users/aboveaveragejoeconway/Documents/XCode/Circle/Classes/CircleViewController.m -o /Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug-iphoneos/Circle.build/Objects-normal/armv7/CircleViewController.o0#
+
+CCompileC build/Circle.build/Debug-iphoneos/Circle.build/Objects-normal/armv7/CircleViewController.o /Users/aboveaveragejoeconway/Documents/XCode/Circle/Classes/CircleViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s352380960.146007
+e352380960.464592
+r1
+xCompileC
+xbuild/Circle.build/Debug-iphoneos/Circle.build/Objects-normal/armv7/CircleViewController.o
+x/Users/aboveaveragejoeconway/Documents/XCode/Circle/Classes/CircleViewController.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"Compile /Users/aboveaveragejoeconway/Documents/XCode/Circle/Classes/CircleViewController.m91802520e800b541^28f07620e800b541^---0#0#0#-19%DVTDocumentLocation2@98"file://localhost/Users/aboveaveragejoeconway/Documents/XCode/Circle/Classes/CircleViewController.m0000000000000000^3232"CompileC build/Circle.build/Debug-iphoneos/Circle.build/Objects-normal/armv7/CircleViewController.o Classes/CircleViewController.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/aboveaveragejoeconway/Documents/XCode/Circle    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-conversion -Wno-sign-conversion -mthumb "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=5.0 -iquote /Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug-iphoneos/Circle.build/Circle-generated-files.hmap -I/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug-iphoneos/Circle.build/Circle-own-target-headers.hmap -I/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug-iphoneos/Circle.build/Circle-all-target-headers.hmap -iquote /Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug-iphoneos/Circle.build/Circle-project-headers.hmap -I/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Debug-iphoneos/include -I/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug-iphoneos/Circle.build/DerivedSources/armv7 -I/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug-iphoneos/Circle.build/DerivedSources -F/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Debug-iphoneos -include /var/folders/9_/8kqw8lh91k3660w6k2m7hd2h0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Circle_Prefix-bdskbnofxocqavdbrnrjvaxvjzff/Circle_Prefix.pch -MMD -MT dependencies -MF /Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug-iphoneos/Circle.build/Objects-normal/armv7/CircleViewController.d --serialize-diagnostics /Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug-iphoneos/Circle.build/Objects-normal/armv7/CircleViewController.dia -c /Users/aboveaveragejoeconway/Documents/XCode/Circle/Classes/CircleViewController.m -o /Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug-iphoneos/Circle.build/Objects-normal/armv7/CircleViewController.o36"FC2E6E1F-3D69-4F77-89C2-7DB2CB941B43-
+
+CCompileC build/Circle.build/Debug-iphoneos/Circle.build/Objects-normal/armv7/GameCanvas.o /Users/aboveaveragejoeconway/Documents/XCode/Circle/Classes/GameCanvas.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s310761051.747836
+e310761052.032506
+r1
+xCompileC
+xbuild/Circle.build/Debug-iphoneos/Circle.build/Objects-normal/armv7/GameCanvas.o
+x/Users/aboveaveragejoeconway/Documents/XCode/Circle/Classes/GameCanvas.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/aboveaveragejoeconway/Documents/XCode/Circle/Classes/GameCanvas.m: In function '-[GameCanvas drawRect:]':
+o/Users/aboveaveragejoeconway/Documents/XCode/Circle/Classes/GameCanvas.m:75: warning: unused variable 'offsetY'
+lSLF07#2@80"Compile /Users/aboveaveragejoeconway/Documents/XCode/Circle/Classes/GameCanvas.m310761051#310761052#0(225"/Users/aboveaveragejoeconway/Documents/XCode/Circle/Classes/GameCanvas.m: In function '-[GameCanvas drawRect:]':/Users/aboveaveragejoeconway/Documents/XCode/Circle/Classes/GameCanvas.m:75: warning: unused variable 'offsetY'1(22@25"Unused variable 'offsetY'310761051#113#112#0(6@72"/Users/aboveaveragejoeconway/Documents/XCode/Circle/Classes/GameCanvas.m310761043#75#0#75#0#19"unused variable '*'0(0#0#72"/Users/aboveaveragejoeconway/Documents/XCode/Circle/Classes/GameCanvas.m8603424992#1867"    cd /Users/aboveaveragejoeconway/Documents/XCode/Circle    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug-iphoneos/Circle.build/Circle-generated-files.hmap -I/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug-iphoneos/Circle.build/Circle-own-target-headers.hmap -I/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug-iphoneos/Circle.build/Circle-all-target-headers.hmap -iquote /Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug-iphoneos/Circle.build/Circle-project-headers.hmap -F/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Debug-iphoneos -I/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Debug-iphoneos/include -I/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug-iphoneos/Circle.build/DerivedSources/armv7 -I/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug-iphoneos/Circle.build/DerivedSources -include /var/folders/Gd/Gd2fwFC0Em4MkC4Y8VsB3++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Circle_Prefix-curyjbjaiorrrbacidiyuwgnqczp/Circle_Prefix.pch -c /Users/aboveaveragejoeconway/Documents/XCode/Circle/Classes/GameCanvas.m -o /Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug-iphoneos/Circle.build/Objects-normal/armv7/GameCanvas.o0#
+
+CCompileC build/Circle.build/Debug-iphoneos/Circle.build/Objects-normal/armv7/GameCanvas.o /Users/aboveaveragejoeconway/Documents/XCode/Circle/Classes/GameCanvas.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s352381420.198229
+e352381420.293232
+r0
+xCompileC
+xbuild/Circle.build/Debug-iphoneos/Circle.build/Objects-normal/armv7/GameCanvas.o
+x/Users/aboveaveragejoeconway/Documents/XCode/Circle/Classes/GameCanvas.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Users/aboveaveragejoeconway/Documents/XCode/Circle/Classes/GameCanvas.m:76:10: warning: unused variable 'offsetY' [-Wunused-variable]
+o                double offsetY = vY / magV * radius;
+o                       ^
+o/Users/aboveaveragejoeconway/Documents/XCode/Circle/Classes/GameCanvas.m:130:29: error: use of undeclared identifier 'P1x'
+o        CGRect paddle = CGRectMake(P1x, P1y, P2x-P1x, P2y-P1y);
+o                                   ^
+o1 warning and 1 error generated.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection80"Compile /Users/aboveaveragejoeconway/Documents/XCode/Circle/Classes/GameCanvas.ma5db32ece900b541^1f114bece900b541^-470"/Users/aboveaveragejoeconway/Documents/XCode/Circle/Classes/GameCanvas.m:76:10: warning: unused variable 'offsetY' [-Wunused-variable]                double offsetY = vY / magV * radius;                       ^/Users/aboveaveragejoeconway/Documents/XCode/Circle/Classes/GameCanvas.m:130:29: error: use of undeclared identifier 'P1x'        CGRect paddle = CGRectMake(P1x, P1y, P2x-P1x, P2y-P1y);                                   ^1 warning and 1 error generated.2(36%IDEClangDiagnosticActivityLogMessage2@25"Unused variable 'offsetY'-352381420#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@88"file://localhost/Users/aboveaveragejoeconway/Documents/XCode/Circle/Classes/GameCanvas.m0000000000000000^75#9#75#9#1974#0#19"Unused Entity Issue--2@34"Use of undeclared identifier 'P1x'-352381420#18446744073709551615#0#-2#27"com.apple.dt.IDE.diagnostic3@88"file://localhost/Users/aboveaveragejoeconway/Documents/XCode/Circle/Classes/GameCanvas.m0000000000000000^129#28#129#28#3263#0#14"Semantic Issue--0#0#0#-19%DVTDocumentLocation4@88"file://localhost/Users/aboveaveragejoeconway/Documents/XCode/Circle/Classes/GameCanvas.m0000000000000000^3172"CompileC build/Circle.build/Debug-iphoneos/Circle.build/Objects-normal/armv7/GameCanvas.o Classes/GameCanvas.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/aboveaveragejoeconway/Documents/XCode/Circle    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-conversion -Wno-sign-conversion -mthumb "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=5.0 -iquote /Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug-iphoneos/Circle.build/Circle-generated-files.hmap -I/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug-iphoneos/Circle.build/Circle-own-target-headers.hmap -I/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug-iphoneos/Circle.build/Circle-all-target-headers.hmap -iquote /Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug-iphoneos/Circle.build/Circle-project-headers.hmap -I/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Debug-iphoneos/include -I/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug-iphoneos/Circle.build/DerivedSources/armv7 -I/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug-iphoneos/Circle.build/DerivedSources -F/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Debug-iphoneos -include /var/folders/9_/8kqw8lh91k3660w6k2m7hd2h0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Circle_Prefix-bdskbnofxocqavdbrnrjvaxvjzff/Circle_Prefix.pch -MMD -MT dependencies -MF /Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug-iphoneos/Circle.build/Objects-normal/armv7/GameCanvas.d --serialize-diagnostics /Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug-iphoneos/Circle.build/Objects-normal/armv7/GameCanvas.dia -c /Users/aboveaveragejoeconway/Documents/XCode/Circle/Classes/GameCanvas.m -o /Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug-iphoneos/Circle.build/Objects-normal/armv7/GameCanvas.o36"1CA3D1DB-8DB4-4A9E-8D22-B455421EC7F3-
+
+CCompileC build/Circle.build/Debug-iphoneos/Circle.build/Objects-normal/armv7/main.o /Users/aboveaveragejoeconway/Documents/XCode/Circle/main.m normal armv7 objective-c com.apple.compilers.gcc.4_2
+s310665398.008763
+e310665398.077565
+r1
+xCompileC
+xbuild/Circle.build/Debug-iphoneos/Circle.build/Objects-normal/armv7/main.o
+x/Users/aboveaveragejoeconway/Documents/XCode/Circle/main.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@66"Compile /Users/aboveaveragejoeconway/Documents/XCode/Circle/main.m310665398#310665398#0(0"0(0#0#58"/Users/aboveaveragejoeconway/Documents/XCode/Circle/main.m8615650208#1847"    cd /Users/aboveaveragejoeconway/Documents/XCode/Circle    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug-iphoneos/Circle.build/Circle-generated-files.hmap -I/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug-iphoneos/Circle.build/Circle-own-target-headers.hmap -I/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug-iphoneos/Circle.build/Circle-all-target-headers.hmap -iquote /Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug-iphoneos/Circle.build/Circle-project-headers.hmap -F/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Debug-iphoneos -I/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Debug-iphoneos/include -I/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug-iphoneos/Circle.build/DerivedSources/armv7 -I/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug-iphoneos/Circle.build/DerivedSources -include /var/folders/Gd/Gd2fwFC0Em4MkC4Y8VsB3++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Circle_Prefix-curyjbjaiorrrbacidiyuwgnqczp/Circle_Prefix.pch -c /Users/aboveaveragejoeconway/Documents/XCode/Circle/main.m -o /Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug-iphoneos/Circle.build/Objects-normal/armv7/main.o0#
+
+CCompileC build/Circle.build/Debug-iphoneos/Circle.build/Objects-normal/armv7/main.o /Users/aboveaveragejoeconway/Documents/XCode/Circle/main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s352380959.582455
+e352380960.144684
+r1
+xCompileC
+xbuild/Circle.build/Debug-iphoneos/Circle.build/Objects-normal/armv7/main.o
+x/Users/aboveaveragejoeconway/Documents/XCode/Circle/main.m
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection66"Compile /Users/aboveaveragejoeconway/Documents/XCode/Circle/main.m323d951fe800b541^05192520e800b541^---0#0#0#-19%DVTDocumentLocation2@74"file://localhost/Users/aboveaveragejoeconway/Documents/XCode/Circle/main.m0000000000000000^3120"CompileC build/Circle.build/Debug-iphoneos/Circle.build/Objects-normal/armv7/main.o main.m normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/aboveaveragejoeconway/Documents/XCode/Circle    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch armv7 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-conversion -Wno-sign-conversion -mthumb "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=5.0 -iquote /Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug-iphoneos/Circle.build/Circle-generated-files.hmap -I/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug-iphoneos/Circle.build/Circle-own-target-headers.hmap -I/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug-iphoneos/Circle.build/Circle-all-target-headers.hmap -iquote /Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug-iphoneos/Circle.build/Circle-project-headers.hmap -I/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Debug-iphoneos/include -I/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug-iphoneos/Circle.build/DerivedSources/armv7 -I/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug-iphoneos/Circle.build/DerivedSources -F/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Debug-iphoneos -include /var/folders/9_/8kqw8lh91k3660w6k2m7hd2h0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Circle_Prefix-bdskbnofxocqavdbrnrjvaxvjzff/Circle_Prefix.pch -MMD -MT dependencies -MF /Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug-iphoneos/Circle.build/Objects-normal/armv7/main.d --serialize-diagnostics /Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug-iphoneos/Circle.build/Objects-normal/armv7/main.dia -c /Users/aboveaveragejoeconway/Documents/XCode/Circle/main.m -o /Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug-iphoneos/Circle.build/Objects-normal/armv7/main.o36"A7753974-CDC3-4C1F-83C6-828D635C1F5D-
+
+CCompileXIB /Users/aboveaveragejoeconway/Documents/XCode/Circle/CircleViewController.xib
+s352380956.053473
+e352380957.659328
+r1
+xCompileXIB
+x/Users/aboveaveragejoeconway/Documents/XCode/Circle/CircleViewController.xib
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"Compiling /Users/aboveaveragejoeconway/Documents/XCode/Circle/CircleViewController.xibf54c0f1ce800b541^f5d6a81de800b541^---0#0#0#-19%DVTDocumentLocation2@92"file://localhost/Users/aboveaveragejoeconway/Documents/XCode/Circle/CircleViewController.xib0000000000000000^854"CompileXIB CircleViewController.xib    cd /Users/aboveaveragejoeconway/Documents/XCode/Circle    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 5.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Debug-iphoneos/Circle.app/CircleViewController.nib /Users/aboveaveragejoeconway/Documents/XCode/Circle/CircleViewController.xib --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk36"EC07251B-3A37-4010-A108-1DBE874DA970-
+
+CCompileXIB /Users/aboveaveragejoeconway/Documents/XCode/Circle/MainWindow.xib
+s352380956.053108
+e352380957.656229
+r1
+xCompileXIB
+x/Users/aboveaveragejoeconway/Documents/XCode/Circle/MainWindow.xib
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection76"Compiling /Users/aboveaveragejoeconway/Documents/XCode/Circle/MainWindow.xib382e0f1ce800b541^4a0aa81de800b541^---0#0#0#-19%DVTDocumentLocation2@82"file://localhost/Users/aboveaveragejoeconway/Documents/XCode/Circle/MainWindow.xib0000000000000000^824"CompileXIB MainWindow.xib    cd /Users/aboveaveragejoeconway/Documents/XCode/Circle    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 5.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Debug-iphoneos/Circle.app/MainWindow.nib /Users/aboveaveragejoeconway/Documents/XCode/Circle/MainWindow.xib --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk36"487F35B5-343E-43AF-A1AE-59EE72C5B242-
+
+CCpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/ResourceRules.plist build/Debug-iphoneos/Circle.app/ResourceRules.plist
+s352380955.982503
+e352380956.040687
+r1
+xCpResource
+x/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/ResourceRules.plist
+xbuild/Debug-iphoneos/Circle.app/ResourceRules.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection56"Copy build/Debug-iphoneos/Circle.app/ResourceRules.plistf968011ce800b541^fc890a1ce800b541^---0#0#0#-19%DVTDocumentLocation2@119"file://localhost/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Debug-iphoneos/Circle.app/ResourceRules.plist0000000000000000^855"CpResource /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/ResourceRules.plist build/Debug-iphoneos/Circle.app/ResourceRules.plist    cd /Users/aboveaveragejoeconway/Documents/XCode/Circle    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/ResourceRules.plist /Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Debug-iphoneos/Circle.app36"339C32A1-82B7-4EB6-9273-C0A9F4707226-
+
+CCpResource build/Debug-iphoneos/Circle.app/ResourceRules.plist /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+s310665396.078851
+e310665396.145228
+r1
+xCpResource
+xbuild/Debug-iphoneos/Circle.app/ResourceRules.plist
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist
+lSLF07#2@94"Copy /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist310665396#310665396#0(0"0(0#0#89"/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist8614870784#519"    cd /Users/aboveaveragejoeconway/Documents/XCode/Circle    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/ResourceRules.plist /Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Debug-iphoneos/Circle.app0#
+
+CCreateUniversalBinary /Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Debug-iphoneos/Circle.app/Circle normal "armv6 armv7"
+s310761053.186170
+e310761053.268841
+r1
+xCreateUniversalBinary
+x/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Debug-iphoneos/Circle.app/Circle
+xnormal
+xarmv6 armv7
+lSLF07#2@81"CreateUniversalBinary build/Debug-iphoneos/Circle.app/Circle normal "armv6 armv7"310761053#310761053#0(0"0(0#0#63"/Users/aboveaveragejoeconway/Documents/XCode/Circle/armv6 armv78622578112#562"    cd /Users/aboveaveragejoeconway/Documents/XCode/Circle    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/lipo -create /Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug-iphoneos/Circle.build/Objects-normal/armv6/Circle /Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug-iphoneos/Circle.build/Objects-normal/armv7/Circle -output /Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Debug-iphoneos/Circle.app/Circle0#
+
+CGenerateDSYMFile /Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Debug-iphoneos/Circle.app.dSYM /Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Debug-iphoneos/Circle.app/Circle
+s352381420.338608
+e352381420.363568
+r0
+xGenerateDSYMFile
+x/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Debug-iphoneos/Circle.app.dSYM
+x/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Debug-iphoneos/Circle.app/Circle
+oerror: unable to open executable '/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Debug-iphoneos/Circle.app/Circle'
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection99"Generating /Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Debug-iphoneos/Circle.app.dSYMcbbf56ece900b541^eb1a5dece900b541^-126"error: unable to open executable '/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Debug-iphoneos/Circle.app/Circle'1(21%IDEActivityLogMessage2@125"error: unable to open executable '/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Debug-iphoneos/Circle.app/Circle'-352381420#18446744073709551615#0#-2#-23%DVTTextDocumentLocation3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#---0#0#0#-19%DVTDocumentLocation4@105"file://localhost/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Debug-iphoneos/Circle.app.dSYM/0000000000000000^587"GenerateDSYMFile build/Debug-iphoneos/Circle.app.dSYM build/Debug-iphoneos/Circle.app/Circle    cd /Users/aboveaveragejoeconway/Documents/XCode/Circle    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/usr/bin/dsymutil /Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Debug-iphoneos/Circle.app/Circle -o /Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Debug-iphoneos/Circle.app.dSYM36"3A79AB0E-8AC0-46C6-9EEA-FFD6679CAE54-
+
+CLd /Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug-iphoneos/Circle.build/Objects-normal/armv6/Circle normal armv6
+s310761048.693950
+e310761052.802003
+r1
+xLd
+x/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug-iphoneos/Circle.build/Objects-normal/armv6/Circle
+xnormal
+xarmv6
+lSLF07#2@131"Link /Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug-iphoneos/Circle.build/Objects-normal/armv6/Circle310761048#310761052#0(0"0(0#0#0"8622704512#940"    cd /Users/aboveaveragejoeconway/Documents/XCode/Circle    setenv IPHONEOS_DEPLOYMENT_TARGET 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv6 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -L/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Debug-iphoneos -F/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Debug-iphoneos -filelist /Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug-iphoneos/Circle.build/Objects-normal/armv6/Circle.LinkFileList -dead_strip -miphoneos-version-min=4.2 -framework Foundation -framework UIKit -framework CoreGraphics -framework QuartzCore -o /Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug-iphoneos/Circle.build/Objects-normal/armv6/Circle0#
+
+CLd /Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug-iphoneos/Circle.build/Objects-normal/armv7/Circle normal armv7
+s310761052.103158
+e310761053.185934
+r1
+xLd
+x/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug-iphoneos/Circle.build/Objects-normal/armv7/Circle
+xnormal
+xarmv7
+lSLF07#2@131"Link /Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug-iphoneos/Circle.build/Objects-normal/armv7/Circle310761052#310761053#0(0"0(0#0#0"8623188704#940"    cd /Users/aboveaveragejoeconway/Documents/XCode/Circle    setenv IPHONEOS_DEPLOYMENT_TARGET 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv7 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -L/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Debug-iphoneos -F/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Debug-iphoneos -filelist /Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug-iphoneos/Circle.build/Objects-normal/armv7/Circle.LinkFileList -dead_strip -miphoneos-version-min=4.2 -framework Foundation -framework UIKit -framework CoreGraphics -framework QuartzCore -o /Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug-iphoneos/Circle.build/Objects-normal/armv7/Circle0#
+
+CLd /Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Debug-iphoneos/Circle.app/Circle normal armv6
+s312743023.998398
+e312743024.635124
+r1
+xLd
+x/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Debug-iphoneos/Circle.app/Circle
+xnormal
+xarmv6
+lSLF07#2@95"Link /Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Debug-iphoneos/Circle.app/Circle312743023#312743024#0(0"0(0#0#0"8612643232#904"    cd /Users/aboveaveragejoeconway/Documents/XCode/Circle    setenv IPHONEOS_DEPLOYMENT_TARGET 4.2    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -arch armv6 -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -L/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Debug-iphoneos -F/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Debug-iphoneos -filelist /Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug-iphoneos/Circle.build/Objects-normal/armv6/Circle.LinkFileList -dead_strip -miphoneos-version-min=4.2 -framework Foundation -framework UIKit -framework CoreGraphics -framework QuartzCore -o /Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Debug-iphoneos/Circle.app/Circle0#
+
+CLd /Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Debug-iphoneos/Circle.app/Circle normal armv7
+s352381420.300754
+e352381420.331023
+r0
+xLd
+x/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Debug-iphoneos/Circle.app/Circle
+xnormal
+xarmv7
+old: file not found: /Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug-iphoneos/Circle.build/Objects-normal/armv7/GameCanvas.o
+oclang: error: linker command failed with exit code 1 (use -v to see invocation)
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection95"Link /Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Debug-iphoneos/Circle.app/Circlef1114dece900b541^e4bf54ece900b541^-278"ld: file not found: /Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug-iphoneos/Circle.build/Objects-normal/armv7/GameCanvas.oCommand /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang failed with exit code 12(21%IDEActivityLogMessage2@148"File not found: /Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug-iphoneos/Circle.build/Objects-normal/armv7/GameCanvas.o-352381420#0#153#-0#-23%DVTTextDocumentLocation3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#26"Apple Mach-O Linker Notice--2@124"Command /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang failed with exit code 1-352381420#18446744073709551615#0#-2#--25"Apple Mach-O Linker Error--0#0#0#--1083"Ld build/Debug-iphoneos/Circle.app/Circle normal armv7    cd /Users/aboveaveragejoeconway/Documents/XCode/Circle    setenv IPHONEOS_DEPLOYMENT_TARGET 5.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch armv7 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk -L/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Debug-iphoneos -F/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Debug-iphoneos -filelist /Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug-iphoneos/Circle.build/Objects-normal/armv7/Circle.LinkFileList -dead_strip -miphoneos-version-min=5.0 -framework Foundation -framework UIKit -framework CoreGraphics -framework QuartzCore -o /Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Debug-iphoneos/Circle.app/Circle36"F5946B10-0822-4249-AED7-B374666AB2E7-
+
+CProcessInfoPlistFile /Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Debug-iphoneos/Circle.app/Info.plist Circle-Info.plist
+s352380955.982600
+e352380956.044116
+r1
+xProcessInfoPlistFile
+x/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Debug-iphoneos/Circle.app/Info.plist
+xCircle-Info.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection25"Process Circle-Info.plist6e8b021ce800b541^ef550b1ce800b541^---0#0#0#-19%DVTDocumentLocation2@85"file://localhost/Users/aboveaveragejoeconway/Documents/XCode/Circle/Circle-Info.plist0000000000000000^756"ProcessInfoPlistFile build/Debug-iphoneos/Circle.app/Info.plist Circle-Info.plist    cd /Users/aboveaveragejoeconway/Documents/XCode/Circle    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Circle-Info.plist -genpkginfo /Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Debug-iphoneos/Circle.app/PkgInfo -expandbuildsettings -format binary -platform iphoneos -resourcerulesfile /Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Debug-iphoneos/Circle.app/ResourceRules.plist -o /Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Debug-iphoneos/Circle.app/Info.plist36"66F9FA18-49FF-4746-91C5-65B27F424F85-
+
+CProcessPCH /Users/aboveaveragejoeconway/Library/Developer/Xcode/DerivedData/Circle-auguegbwhdmtzaeyniwddiexbcyf/Index/PrecompiledHeaders/Circle_Prefix-eokuufcpgarckbcbshdnrsbindsa_ast/Circle_Prefix.pch.pth Circle_Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /var/folders/9_/8kqw8lh91k3660w6k2m7hd2h0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Circle_Prefix-bdskbnofxocqavdbrnrjvaxvjzff/Circle_Prefix.pch.pth Circle_Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s352380957.678923
+e352380959.574161
+r1
+xProcessPCH
+x/var/folders/9_/8kqw8lh91k3660w6k2m7hd2h0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Circle_Prefix-bdskbnofxocqavdbrnrjvaxvjzff/Circle_Prefix.pch.pth
+xCircle_Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection28"Precompile Circle_Prefix.pch6bf1ad1de800b541^2e3c931fe800b541^---0#0#0#-19%DVTDocumentLocation2@85"file://localhost/Users/aboveaveragejoeconway/Documents/XCode/Circle/Circle_Prefix.pch0000000000000000^3163"ProcessPCH /var/folders/9_/8kqw8lh91k3660w6k2m7hd2h0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Circle_Prefix-bdskbnofxocqavdbrnrjvaxvjzff/Circle_Prefix.pch.pth Circle_Prefix.pch normal armv7 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/aboveaveragejoeconway/Documents/XCode/Circle    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch armv7 -fmessage-length=0 -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-conversion -Wno-sign-conversion -mthumb "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -miphoneos-version-min=5.0 -iquote /Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug-iphoneos/Circle.build/Circle-generated-files.hmap -I/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug-iphoneos/Circle.build/Circle-own-target-headers.hmap -I/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug-iphoneos/Circle.build/Circle-all-target-headers.hmap -iquote /Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug-iphoneos/Circle.build/Circle-project-headers.hmap -I/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Debug-iphoneos/include -I/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug-iphoneos/Circle.build/DerivedSources/armv7 -I/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug-iphoneos/Circle.build/DerivedSources -F/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Debug-iphoneos --serialize-diagnostics /var/folders/9_/8kqw8lh91k3660w6k2m7hd2h0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Circle_Prefix-bdskbnofxocqavdbrnrjvaxvjzff/Circle_Prefix.pch.dia -c /Users/aboveaveragejoeconway/Documents/XCode/Circle/Circle_Prefix.pch -o /var/folders/9_/8kqw8lh91k3660w6k2m7hd2h0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Circle_Prefix-bdskbnofxocqavdbrnrjvaxvjzff/Circle_Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/9_/8kqw8lh91k3660w6k2m7hd2h0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/Circle_Prefix-bdskbnofxocqavdbrnrjvaxvjzff/Circle_Prefix.pch.d36"FB9981B5-2A1C-4436-8270-9169943E646C-
+
+CProcessPCH /var/folders/Gd/Gd2fwFC0Em4MkC4Y8VsB3++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Circle_Prefix-bjexdyccrfwthocbcxaspgabrgnn/Circle_Prefix.pch.gch Circle_Prefix.pch normal armv6 objective-c com.apple.compilers.gcc.4_2
+s310665396.604527
+e310665397.744853
+r1
+xProcessPCH
+x/var/folders/Gd/Gd2fwFC0Em4MkC4Y8VsB3++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Circle_Prefix-bjexdyccrfwthocbcxaspgabrgnn/Circle_Prefix.pch.gch
+xCircle_Prefix.pch
+xnormal
+xarmv6
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@28"Precompile Circle_Prefix.pch310665396#310665397#0(0"0(0#0#69"/Users/aboveaveragejoeconway/Documents/XCode/Circle/Circle_Prefix.pch8617691008#1733"    cd /Users/aboveaveragejoeconway/Documents/XCode/Circle    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv6 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug-iphoneos/Circle.build/Circle-generated-files.hmap -I/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug-iphoneos/Circle.build/Circle-own-target-headers.hmap -I/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug-iphoneos/Circle.build/Circle-all-target-headers.hmap -iquote /Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug-iphoneos/Circle.build/Circle-project-headers.hmap -F/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Debug-iphoneos -I/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Debug-iphoneos/include -I/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug-iphoneos/Circle.build/DerivedSources/armv6 -I/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug-iphoneos/Circle.build/DerivedSources -c /Users/aboveaveragejoeconway/Documents/XCode/Circle/Circle_Prefix.pch -o /var/folders/Gd/Gd2fwFC0Em4MkC4Y8VsB3++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Circle_Prefix-bjexdyccrfwthocbcxaspgabrgnn/Circle_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/Gd/Gd2fwFC0Em4MkC4Y8VsB3++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Circle_Prefix-curyjbjaiorrrbacidiyuwgnqczp/Circle_Prefix.pch.gch Circle_Prefix.pch normal armv7 objective-c com.apple.compilers.gcc.4_2
+s310665396.605510
+e310665397.745316
+r1
+xProcessPCH
+x/var/folders/Gd/Gd2fwFC0Em4MkC4Y8VsB3++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Circle_Prefix-curyjbjaiorrrbacidiyuwgnqczp/Circle_Prefix.pch.gch
+xCircle_Prefix.pch
+xnormal
+xarmv7
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@28"Precompile Circle_Prefix.pch310665396#310665397#0(0"0(0#0#69"/Users/aboveaveragejoeconway/Documents/XCode/Circle/Circle_Prefix.pch8616878912#1733"    cd /Users/aboveaveragejoeconway/Documents/XCode/Circle    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneOS.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch armv7 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk -fvisibility=hidden -gdwarf-2 -mthumb -miphoneos-version-min=4.2 -iquote /Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug-iphoneos/Circle.build/Circle-generated-files.hmap -I/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug-iphoneos/Circle.build/Circle-own-target-headers.hmap -I/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug-iphoneos/Circle.build/Circle-all-target-headers.hmap -iquote /Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug-iphoneos/Circle.build/Circle-project-headers.hmap -F/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Debug-iphoneos -I/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Debug-iphoneos/include -I/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug-iphoneos/Circle.build/DerivedSources/armv7 -I/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug-iphoneos/Circle.build/DerivedSources -c /Users/aboveaveragejoeconway/Documents/XCode/Circle/Circle_Prefix.pch -o /var/folders/Gd/Gd2fwFC0Em4MkC4Y8VsB3++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Circle_Prefix-curyjbjaiorrrbacidiyuwgnqczp/Circle_Prefix.pch.gch0#
+
+CProcessProductPackaging "/Users/aboveaveragejoeconway/Library/MobileDevice/Provisioning Profiles/472A325A-2E55-4949-BC1F-377D2C11EA8A.mobileprovision" /Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Debug-iphoneos/Circle.app/embedded.mobileprovision
+s310665500.485892
+e310665500.487684
+r1
+xProcessProductPackaging
+x/Users/aboveaveragejoeconway/Library/MobileDevice/Provisioning Profiles/472A325A-2E55-4949-BC1F-377D2C11EA8A.mobileprovision
+x/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Debug-iphoneos/Circle.app/embedded.mobileprovision
+lSLF07#2@207"ProcessProductPackaging "/Users/aboveaveragejoeconway/Library/MobileDevice/Provisioning Profiles/472A325A-2E55-4949-BC1F-377D2C11EA8A.mobileprovision" build/Debug-iphoneos/Circle.app/embedded.mobileprovision310665500#310665500#0(0"0(0#0#108"/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Debug-iphoneos/Circle.app/embedded.mobileprovision8624026880#464"    cd /Users/aboveaveragejoeconway/Documents/XCode/Circle    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> "/Users/aboveaveragejoeconway/Library/MobileDevice/Provisioning Profiles/472A325A-2E55-4949-BC1F-377D2C11EA8A.mobileprovision" -o /Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Debug-iphoneos/Circle.app/embedded.mobileprovision0#
+
+CProcessProductPackaging "/Users/aboveaveragejoeconway/Library/MobileDevice/Provisioning Profiles/ABDCAE2B-6A2B-4BAA-B8DC-52D4B94FE637.mobileprovision" /Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Debug-iphoneos/Circle.app/embedded.mobileprovision
+s352380961.797949
+e352380961.801823
+r1
+xProcessProductPackaging
+x/Users/aboveaveragejoeconway/Library/MobileDevice/Provisioning Profiles/ABDCAE2B-6A2B-4BAA-B8DC-52D4B94FE637.mobileprovision
+x/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Debug-iphoneos/Circle.app/embedded.mobileprovision
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection207"ProcessProductPackaging "/Users/aboveaveragejoeconway/Library/MobileDevice/Provisioning Profiles/ABDCAE2B-6A2B-4BAA-B8DC-52D4B94FE637.mobileprovision" build/Debug-iphoneos/Circle.app/embedded.mobileprovision085bcc21e800b541^c85ccd21e800b541^---0#0#0#-19%DVTDocumentLocation2@124"file://localhost/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Debug-iphoneos/Circle.app/embedded.mobileprovision0000000000000000^730"ProcessProductPackaging "/Users/aboveaveragejoeconway/Library/MobileDevice/Provisioning Profiles/ABDCAE2B-6A2B-4BAA-B8DC-52D4B94FE637.mobileprovision" build/Debug-iphoneos/Circle.app/embedded.mobileprovision    cd /Users/aboveaveragejoeconway/Documents/XCode/Circle    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-productPackagingUtility "/Users/aboveaveragejoeconway/Library/MobileDevice/Provisioning Profiles/ABDCAE2B-6A2B-4BAA-B8DC-52D4B94FE637.mobileprovision" -o /Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Debug-iphoneos/Circle.app/embedded.mobileprovision36"F6FF8492-954C-4C41-8CA2-A485FF2F348F-
+
+CProcessProductPackaging "/Users/aboveaveragejoeconway/Library/MobileDevice/Provisioning Profiles/FDA175AC-986B-4337-809B-B5BD0B0D80C5.mobileprovision" /Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Debug-iphoneos/Circle.app/embedded.mobileprovision
+s310665460.165549
+e310665460.166613
+r0
+xProcessProductPackaging
+x/Users/aboveaveragejoeconway/Library/MobileDevice/Provisioning Profiles/FDA175AC-986B-4337-809B-B5BD0B0D80C5.mobileprovision
+x/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Debug-iphoneos/Circle.app/embedded.mobileprovision
+lSLF07#2@207"ProcessProductPackaging "/Users/aboveaveragejoeconway/Library/MobileDevice/Provisioning Profiles/FDA175AC-986B-4337-809B-B5BD0B0D80C5.mobileprovision" build/Debug-iphoneos/Circle.app/embedded.mobileprovision310665460#310665460#0(165"<com.apple.tools.product-pkg-utility>: error: class '(null)' of input object does not respond to either selector writeToFile:options:error: or writeToFile:atomically1(4@165"<com.apple.tools.product-pkg-utility>: error: class '(null)' of input object does not respond to either selector writeToFile:options:error: or writeToFile:atomically310665460#18446744073709551615#0#0(6@0"310665460#0#0#0#0#0"0(0#0#108"/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Debug-iphoneos/Circle.app/embedded.mobileprovision8621385152#464"    cd /Users/aboveaveragejoeconway/Documents/XCode/Circle    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> "/Users/aboveaveragejoeconway/Library/MobileDevice/Provisioning Profiles/FDA175AC-986B-4337-809B-B5BD0B0D80C5.mobileprovision" -o /Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Debug-iphoneos/Circle.app/embedded.mobileprovision1#
+
+CProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/Entitlements.plist /Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug-iphoneos/Circle.build/Circle.xcent
+s352380961.864495
+e352380961.869797
+r1
+xProcessProductPackaging
+x/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/Entitlements.plist
+x/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug-iphoneos/Circle.build/Circle.xcent
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection204"ProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/Entitlements.plist build/Circle.build/Debug-iphoneos/Circle.build/Circle.xcentaa63dd21e800b541^3baade21e800b541^---0#0#0#-19%DVTDocumentLocation2@127"file://localhost/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug-iphoneos/Circle.build/Circle.xcent0000000000000000^750"ProcessProductPackaging /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/Entitlements.plist build/Circle.build/Debug-iphoneos/Circle.build/Circle.xcent    cd /Users/aboveaveragejoeconway/Documents/XCode/Circle    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-productPackagingUtility /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS5.0.sdk/Entitlements.plist -entitlements -format xml -o /Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug-iphoneos/Circle.build/Circle.xcent36"3C73860D-2787-488F-97CC-B3150D80FB9C-
+
+CProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist /Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug-iphoneos/Circle.build/Circle.xcent
+s310665398.941407
+e310665398.976274
+r1
+xProcessProductPackaging
+x/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist
+x/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug-iphoneos/Circle.build/Circle.xcent
+lSLF07#2@172"ProcessProductPackaging /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist build/Circle.build/Debug-iphoneos/Circle.build/Circle.xcent310665398#310665398#0(0"0(0#0#111"/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug-iphoneos/Circle.build/Circle.xcent8620587968#455"    cd /Users/aboveaveragejoeconway/Documents/XCode/Circle    setenv PATH "/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    <com.apple.tools.product-pkg-utility> /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.2.sdk/Entitlements.plist -entitlements -format xml -o /Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Circle.build/Debug-iphoneos/Circle.build/Circle.xcent0#
+
+CTouch /Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Debug-iphoneos/Circle.app
+s352381420.390084
+e352381420.397146
+r1
+xTouch
+x/Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Debug-iphoneos/Circle.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection89"Touch /Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Debug-iphoneos/Circle.app3aeb63ece900b541^0ed865ece900b541^---0#0#0#--391"Touch build/Debug-iphoneos/Circle.app    cd /Users/aboveaveragejoeconway/Documents/XCode/Circle    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/aboveaveragejoeconway/Documents/XCode/Circle/build/Debug-iphoneos/Circle.app36"E8C4AC79-FFC4-4825-B4D1-FB4375F5E2B5-
+
